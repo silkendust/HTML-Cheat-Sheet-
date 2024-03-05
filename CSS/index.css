@@ -1,0 +1,66 @@
+header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: sienna;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blanchedalmond;
+    color:black;
+}
+
+table {
+    border: 2px solid black;
+    width: 75%;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    line-height: normal;
+    text-align: start;
+    border-spacing: 2px;
+}
+
+td, th {
+    padding: 5px 15px;
+    text-align: start;
+    
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;    
+    border-style: inherit;
+    border-color: inherit;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr:hover {background-color:lightblue}
+
+thead {
+    font-size: 15px;
+    background-color:chocolate;
+    color: blanchedalmond;
+}
+
+p {
+    text-align: center;
+    width: 75%;
+    margin: 15px auto;
+    overflow: scroll;
+}
